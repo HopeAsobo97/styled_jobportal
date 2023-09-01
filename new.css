@@ -155,8 +155,9 @@ body{
     font-size: 1em;
     color: #22438C;
     outline: none;
-    width: 130px;
+    width: 43%;
     height: 30px;
+    margin-top: 15px;
     padding-right: 30px;
 }
 
@@ -168,7 +169,7 @@ body{
 
 .formbox .icon-1{
     position: absolute;
-    padding-top: 7px;
+    padding-top: 22px;
     padding-left: 10px;
     line-height: 10px;
 }
@@ -176,7 +177,7 @@ body{
 .formbox .icon-2{
     position: absolute;
     padding-left: 10px;
-    padding-top: 7px;
+    padding-top: 22px;
     line-height: 10px;
 }
 
@@ -185,13 +186,13 @@ body{
     border-radius: 15px;
     height: 30px;
     background: #112C66;
-    margin-top: 10px;
+    margin-top: 15px;
     color: #fff;
     border: none;
 }
 
 .keywords{
-    margin-top: 10px;
+    margin-top: 15px;
 }
 
 .keywords .search-btn{
