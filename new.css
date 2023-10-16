@@ -23,11 +23,11 @@ ul li a {
     text-align: center;
 }
 
-ul li ul.dropdown li{
+ul li ul.drop li{
     display: block;
 }
 
-ul li ul.dropdown{
+ul li ul.drop{
     width: 100%;
     background: #22438C;
     position: absolute;
@@ -39,7 +39,7 @@ ul li a:hover{
     background: #112C66;
 }
 
-ul li a:hover ul.dropdown{
+ul li a:hover ul.drop{
     display: block;    
 }
 
